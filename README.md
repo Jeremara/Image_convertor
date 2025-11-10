@@ -4,7 +4,7 @@ MiahBot Image Converter is a cross-platform desktop application built using Taur
 # 🖼️ MiahBot Image Converter
 
 A fast, privacy-focused **desktop image converter** built with **Tauri** and **React**.  
-Convert, resize, and compress images locally — no internet required.
+Convert, resize, and compress images locally no internet required.
 
 ---
 
@@ -14,7 +14,7 @@ Convert, resize, and compress images locally — no internet required.
 - ⚡ **Fast local processing** – Built on Rust + Tauri for native performance.
 - 🖱️ **Drag and drop interface** – Easily import your images.
 - 🧠 **Batch conversion** – Process multiple files at once.
-- 🕶️ **Dark/Light themes** – Smooth UI with modern design.
+- 🕶️ **Light themes** – Smooth UI with modern design.
 - 🔒 **Offline & secure** – No data leaves your device.
 
 ---
